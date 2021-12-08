@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^13.3.1",
+    "nintendo-switch-eshop": "^7.0.1"
+  }
+}
