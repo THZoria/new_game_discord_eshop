@@ -165,4 +165,4 @@ Client.on("ready", () => {
   setInterval(fsnewjson, 1000 * 60 * 60);
 });
 
-Client.login("ODIwMjA2MjU4NTgwNzUwMzM2.YExymg.VKIHAUKvWWu10RlnTQ6PT7-Cwqc")
+Client.login("token")
